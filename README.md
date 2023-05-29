@@ -1,4 +1,4 @@
-# <a href="https://jackyyang27.github.io/JackyYang.github.io/">Please visit my homepage~</a>
+# [Please visit my homepage~](https://jackyyang27.github.io/JackyYang.github.io/)
 
 
-Nice to meet you~
+*Nice to meet you~*
