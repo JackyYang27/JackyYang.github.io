@@ -1,0 +1,35 @@
+/*設定標題*/
+h1 {
+	text-align: center;
+}
+/*設定文字外觀、排版*/
+.block {	
+	width: 60%;
+	text-align: left;
+	line-height: 35px;
+	font-size: 20;
+}
+/*設定背景顏色*/
+h3 {
+	background-color: #FFE681;
+	display: inline;
+}
+/*設定字體*/
+ul {
+	font-size: large;
+}
+/*設定當游標一上圖片時的透明度*/
+img:hover{
+	opacity : 0.8;
+}
+/*設定圖片大小*/
+img {
+	width :300px;
+	height :450px;
+}
+
+
+body {
+	background-image: url('./backgroundpic.jpg');
+	background-repeat: repeat;
+}
